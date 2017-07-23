@@ -17,7 +17,7 @@ import java.io.IOException;
 
 public class ForgotActivity extends LoginActivity {
 
-    String email_text,;
+    String email_text;
     ImageView mImage_lock;
     public String emailPattern = "[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+";
     Button reset_button;
